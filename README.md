@@ -1,2 +1,2 @@
-# Curos-B-sico-Asp.Net-MVC
+# Curso Básico Asp.Net MVC
 Curso básico de Asp.Net MVC

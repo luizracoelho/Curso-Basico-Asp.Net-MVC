@@ -124,6 +124,10 @@
     <Compile Include="Migrations\201609231810105_Inicial.Designer.cs">
       <DependentUpon>201609231810105_Inicial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201609240009440_Alteracao_Do_Contato.cs" />
+    <Compile Include="Migrations\201609240009440_Alteracao_Do_Contato.Designer.cs">
+      <DependentUpon>201609240009440_Alteracao_Do_Contato.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Contato.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -157,6 +161,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201609231810105_Inicial.resx">
       <DependentUpon>201609231810105_Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609240009440_Alteracao_Do_Contato.resx">
+      <DependentUpon>201609240009440_Alteracao_Do_Contato.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
